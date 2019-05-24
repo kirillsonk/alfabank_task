@@ -1,0 +1,24 @@
+.parent {
+    width: 40%;
+    height: 50%;
+    position: fixed;
+    border: 1px solid black; 
+    border-radius: 10px;
+    top: 23%;
+    left: 27%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.block {
+    background-color: #dfe1e1;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+img {
+    display: block;
+    border: none;
+    }
