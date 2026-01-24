@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "arui-feather": "^13.11.0",
+    "arui-feather": "^19.2.2",
     "formik": "^1.5.7",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
